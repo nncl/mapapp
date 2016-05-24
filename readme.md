@@ -39,6 +39,7 @@ bower install ngmap --save-dev
 ```js
 angular.module('starter', [
     'ionic',
-    'ngCordova'
+    'ngCordova',
+    'ngmap'
 ])
 ```
